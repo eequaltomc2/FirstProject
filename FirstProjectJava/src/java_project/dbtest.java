@@ -22,7 +22,7 @@ package java_project;
 	  private static Statement statement = null;
 	  private PreparedStatement preparedStatement = null;
 	  private static ResultSet resultSet = null;
-
+//
 	  final private static String host = "127.0.0.1:3306";
 	  final private static String user = "";
 	  final private static String passwd = "password123";
