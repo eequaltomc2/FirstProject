@@ -26,7 +26,7 @@ package java_project;
 	  final private static String host = "127.0.0.1:3306";
 	  final private static String user = "";
 	  final private static String passwd = "password123";
-	  
+	  //
 	  public static void main(String[] args) throws Exception {
 	    try {
 	      // This will load the MySQL driver, each DB has its own driver
